@@ -1,0 +1,18 @@
+body{
+    background-color: #333; color: #fff;
+}
+.navbar{
+    opacity: .7;
+    border-bottom: solid 4px blue;
+}
+header{
+    height: 100vh;
+    background-image: url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-indicators li{
+    height: 30px; width: 30px;
+    border-radius: 50%;
+}
